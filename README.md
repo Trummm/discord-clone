@@ -1,10 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Technology Use
+
+- [NextJS](https://nextjs.org/docs) - Frameworks create-next-app
+- [Prisma](https://www.prisma.io/docs) - ORM
+- [Shadcn/ui](https://ui.shadcn.com/docs) - UI
+- [Clerk](https://clerk.com/) - Authentication(signIn/SignOut)
+- [PlanetScale](https://planetscale.com/docs/concepts/what-is-planetscale) - Database
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm install
+
 npm run dev
 # or
 yarn dev
