@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Technology Use
 
 - [NextJS](https://nextjs.org/docs) - Frameworks create-next-app
+- [Tailwindcss](https://tailwindcss.com/docs/installation) - Style
 - [Prisma](https://www.prisma.io/docs) - ORM
 - [Shadcn/ui](https://ui.shadcn.com/docs) - UI
 - [Clerk](https://clerk.com/) - Authentication(signIn/SignOut)
