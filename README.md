@@ -7,6 +7,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Shadcn/ui](https://ui.shadcn.com/docs) - UI
 - [Clerk](https://clerk.com/) - Authentication(signIn/SignOut)
 - [PlanetScale](https://planetscale.com/docs/concepts/what-is-planetscale) - Database
+- [Uploadthing](https://docs.uploadthing.com/) - Manage File Hosting
+- [Axios](https://axios-http.com/vi/docs/intro/) - Framework HTTP Client
 
 ## Getting Started
 
