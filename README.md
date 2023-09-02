@@ -10,6 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [PlanetScale](https://planetscale.com/docs/concepts/what-is-planetscale) - Database
 - [Uploadthing](https://docs.uploadthing.com/) - Manage File Hosting
 - [Axios](https://axios-http.com/vi/docs/intro/) - Framework HTTP Client
+- [Socket.io](https://socket.io/docs/v4/) Real-time chat
 
 ## Getting Started
 
