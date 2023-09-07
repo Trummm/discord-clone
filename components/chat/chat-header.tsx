@@ -32,6 +32,7 @@ export const ChatHeader = ({
 
       <div className='ml-auto flex items-center'>
         {type === 'conversation' && <ChatVideoButton />}
+        {type === 'channel' && <ChatVideoButton />}
         <SocketIndicator />
       </div>
     </div>
