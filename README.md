@@ -11,6 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Uploadthing](https://docs.uploadthing.com/) - Manage File Hosting
 - [Axios](https://axios-http.com/vi/docs/intro/) - Framework HTTP Client
 - [Socket.io](https://socket.io/docs/v4/) Real-time chat
+- [LiveKit](https://docs.livekit.io/realtime/?phid=018a6fe2-e98e-79b6-baa3-3fea8482f9c4) Video Calls real-time and audio
 
 ## Getting Started
 
